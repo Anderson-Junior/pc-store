@@ -1,0 +1,76 @@
+.formulario {
+    margin: 50px auto auto auto;
+    width: 500px;
+    background-color: #1C1C1C;
+    border-radius: 5px;
+    padding: 8px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #FF4500;
+}
+.margin{
+    margin-bottom: 15px;
+}
+#logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-right: 50px;
+    color: white;
+    text-shadow: 2px 2px 8px #FF4500;
+}
+body{
+    background-image: url(/img/Gamer-mirim2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right bottom;
+}
+.aLogin{
+    color:#FF4500;
+}
+.nav-link{
+    color: #FF4500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar{
+    background-color: black;
+}
+#pipe{
+    color: #FF4500;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a:link{
+    text-decoration: none;
+}
+.aLogin:hover{
+    color: white;
+}
+.card-group{
+    margin-top: 15px;
+}
+.card{
+    margin: 10px;
+}
+.card-body{
+    text-align: center;
+}
+label{
+    color: white;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+.redes_socais{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+}
